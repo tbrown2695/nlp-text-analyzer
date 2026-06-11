@@ -27,3 +27,17 @@ LANGUAGE_ENDPOINT=your_endpoint_here
 
 ## Part of AI-900 Portfolio
 Built as part of Microsoft Azure AI Fundamentals study portfolio.
+
+## Screenshots
+
+**App Landing Page**
+![App Landing](screenshots/02_app_landing.png)
+
+**Sentiment Analysis Results**
+![Sentiment Results](screenshots/03_sentiment_results.png)
+
+**Key Phrases & Named Entities**
+![Key Phrases and Entities](screenshots/04_key_phrases_entities.png)
+
+**Summary & Term Frequency**
+![Summary and Frequency](screenshots/05_summary_frequency.png)
